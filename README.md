@@ -59,7 +59,6 @@ The following technologies and libraries were used in the development of the Aud
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap (CSS framework)
 - Font Awesome (icon library)
 
 ## Contributing
@@ -75,4 +74,3 @@ This project is licensed under the [MIT License](LICENSE).
 Thank you for checking out the Audio Player! If you have any questions or need assistance, feel free to reach out.
 ```
 
-Feel free to customize the above template based on your requirements. Let me know if there's anything specific you'd like to add or if you have any further questions!
