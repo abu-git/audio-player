@@ -59,7 +59,7 @@ The following technologies and libraries were used in the development of the Aud
 - HTML5
 - CSS3
 - JavaScript
-- Font Awesome (icon library)
+- React Icons (icon library)
 
 ## Contributing
 
