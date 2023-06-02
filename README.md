@@ -72,5 +72,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for checking out the Audio Player! If you have any questions or need assistance, feel free to reach out.
-```
 
