@@ -34,7 +34,14 @@ To run the Audio Player locally, follow these steps:
    cd audio-player
    ```
 
-3. Open the `index.html` file in your preferred web browser.
+3. Install the dependencies:
+    ```bash
+   npm install
+   ```
+4. Run the server
+    ```bash
+   npm run dev
+   ```
 
 ## Usage
 
